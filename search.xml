@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2023/03/24/test/"/>
+      <url>/2023/03/24/test/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2023/03/24/test/aaa.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 默认标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hello1</title>
       <link href="/2023/03/24/hello1/"/>
       <url>/2023/03/24/hello1/</url>
@@ -33,7 +58,7 @@
       <link href="/2023/03/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
       <url>/2023/03/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><img src="http://qiniu.zjcoding.com/202303242141657.png" alt="image-20230324213941194"></p>]]></content>
       
       
       
