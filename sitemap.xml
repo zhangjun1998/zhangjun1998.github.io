@@ -2,83 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">  
     
   <url>  
-    <loc>http://example.com/2023/03/25/2024/</loc>  
-      
-    <lastmod>2023-03-25T04:18:17.288Z</lastmod>  
-      
-    <date>1679716139000</date>  
-    <title>2024 | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
-    <loc>http://example.com/2023/03/25/2023/</loc>  
-      
-    <lastmod>2023-03-25T03:45:46.942Z</lastmod>  
-      
-    <date>1679715946000</date>  
-    <title>2023 | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
-    <loc>http://example.com/2023/03/25/title/</loc>  
-      
-    <lastmod>2023-03-25T02:58:26.182Z</lastmod>  
-      
-    <date>1679713106000</date>  
-    <title>title | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
-    <loc>http://example.com/2023/03/24/aaa/</loc>  
-      
-    <lastmod>2023-03-24T14:19:45.452Z</lastmod>  
-      
-    <date>1679667585000</date>  
-    <title>aaa | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
-    <loc>http://example.com/2023/03/24/test/</loc>  
-      
-    <lastmod>2023-03-24T13:46:13.408Z</lastmod>  
-      
-    <date>1679665519000</date>  
-    <title>test | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
-    <loc>http://example.com/2023/03/24/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>  
-      
-    <lastmod>2023-03-24T13:41:40.302Z</lastmod>  
-      
-    <date>1679645030000</date>  
-    <title>测试文章 | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
-    <loc>http://example.com/2023/03/24/hello1/</loc>  
-      
-    <lastmod>2023-03-24T12:14:42.558Z</lastmod>  
-      
-    <date>1679660082000</date>  
-    <title>hello1 | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
     <loc>http://example.com/404.html</loc>  
       
     <lastmod>2023-03-24T09:17:24.974Z</lastmod>  
@@ -118,17 +41,6 @@
       
     <date>1526312052000</date>  
     <title>分类 | 香蕉大魔王</title>  
-      
-    <desc></desc>  
-  </url>  
-    
-  <url>  
-    <loc>http://example.com/2023/03/24/hello-world/</loc>  
-      
-    <lastmod>2023-03-24T07:56:24.806Z</lastmod>  
-      
-    <date>1679644584806</date>  
-    <title>Hello World | 香蕉大魔王</title>  
       
     <desc></desc>  
   </url>  
