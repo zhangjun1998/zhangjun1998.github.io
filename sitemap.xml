@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">  
     
   <url>  
+    <loc>http://example.com/2023/03/25/2023/</loc>  
+      
+    <lastmod>2023-03-25T03:45:46.942Z</lastmod>  
+      
+    <date>1679715946000</date>  
+    <title>2023 | 香蕉大魔王</title>  
+      
+    <desc></desc>  
+  </url>  
+    
+  <url>  
     <loc>http://example.com/2023/03/25/title/</loc>  
       
     <lastmod>2023-03-25T02:58:26.182Z</lastmod>  
