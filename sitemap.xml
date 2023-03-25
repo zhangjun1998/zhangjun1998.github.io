@@ -2,12 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">  
     
   <url>  
-    <loc>http://example.com/2023/03/25/%E6%B5%8B%E8%AF%95/</loc>  
+    <loc>http://example.com/2023/03/25/2020%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>  
       
-    <lastmod>2023-03-25T05:33:58.519Z</lastmod>  
+    <lastmod>2023-03-25T05:39:20.245Z</lastmod>  
       
-    <date>1679718900000</date>  
-    <title>测试 | 香蕉大魔王</title>  
+    <date>1679722680000</date>  
+    <title>2020年终总结 | 香蕉大魔王</title>  
+      
+    <desc></desc>  
+  </url>  
+    
+  <url>  
+    <loc>http://example.com/2023/03/25/2021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>  
+      
+    <lastmod>2023-03-25T05:38:27.726Z</lastmod>  
+      
+    <date>1679722620000</date>  
+    <title>2021年终总结 | 香蕉大魔王</title>  
+      
+    <desc></desc>  
+  </url>  
+    
+  <url>  
+    <loc>http://example.com/2023/03/25/2022%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>  
+      
+    <lastmod>2023-03-25T05:37:17.159Z</lastmod>  
+      
+    <date>1679722560000</date>  
+    <title>2022年终总结 | 香蕉大魔王</title>  
       
     <desc></desc>  
   </url>  
